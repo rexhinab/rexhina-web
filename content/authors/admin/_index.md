@@ -1,7 +1,7 @@
 ---
 title: Rexhina Blloshmi
 role: PhD Student at Sapienza University of Rome
-avatar_filename: 2020-11-10-18.14.17.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include Natural Language Processing and especially
   sentence- and document-level semantics with a focus on multilinguality.
 interests:
