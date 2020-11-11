@@ -15,7 +15,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/rexhinab
+    link: https://twitter.com/rexhina_b
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=DcviB6QAAAAJ&hl=en
@@ -27,20 +27,18 @@ organizations:
     url: uniroma1.it
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: PhD in Computer Science
+      institution: Sapienza University of Rome
+      year: ""
+    - course: Msc in Computer Science
+      institution: Sapienza University of Rome
+      year: 2017
+    - course: "BSc in Business Informatics "
+      institution: Epoka University Albania
+      year: 2015
+email: blloshmi@di.uniroma1.it
 superuser: true
-user_groups:
-  - Researchers
-  - Visitors
+user_groups: []
 highlight_name: false
 ---
 My research interests include Natural Language Processing and especially sentence- and document-level semantics with a focus on multilinguality.
